@@ -2,6 +2,8 @@
 
 - [Visual Studio Code](https://code.visualstudio.com) & [Visual Studio Code Configuration](https://github.com/betavs/vscode-config)
 
+- [Your Free Avatar, Profile, and Link In Bio | Gravatar](https://gravatar.com)
+
 - [Poe - 快捷实用的 AI 聊天](https://poe.com)
 
 - [Pot | 跨平台划词翻译和 OCR](https://pot-app.com)
