@@ -4,6 +4,8 @@
 
 - [Your Free Avatar, Profile, and Link In Bio | Gravatar](https://gravatar.com)
 
+- [Home | 免费高速节点推荐](https://openrunner.net)
+
 - [Poe - 快捷实用的 AI 聊天](https://poe.com)
 
 - [Pot | 跨平台划词翻译和 OCR](https://pot-app.com)
@@ -13,6 +15,8 @@
 - [Rectangle Mac](https://rectangleapp.com)
 
 - [腾讯柠檬清理 - 全新 Mac 清理工具，实时了解 Mac 系统状况](https://lemon.qq.com)
+
+- [Speedtest by Ookla - The Global Broadband Speed Test](https://www.speedtest.net)
 
 - [Ollama](https://ollama.com)
 
