@@ -15,48 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![typing][typing]]()
+![typing][typing]
 
 ### About Me 🧑🏻‍💻
 
-> Front-end Developer | Open-source enthusiast ｜ Currently looking for a job in Shenzhen or Guangzhou
-
-I love coding and have new experiences and growth every day. Now, I'm starting a new journey: looking for my next job opportunity.
-
-I have experienced a lot of challenges and growth along the way in the workplace. I hope to find a new job opportunity to continue learning, growing, and sharing.
+> Front-end Developer | Open-source Enthusiast
 
 ### Tech Stack 🛠️
 
-[![HTML5][html5]]()
-[![CSS3][css3]]()
-[![Less][less]]()
-[![Sass][sass]]()
-[![JavaScript][javascript]]()
-[![TypeScript][typescript]]()
-[![Vue.js][vuedotjs]]()
-[![Nuxt.js][nuxtdotjs]]()
-[![Markdown][markdown]]()
+![HTML5][html5]
+![CSS3][css3]
+![Less][less]
+![Sass][sass]
+![JavaScript][javascript]
+![TypeScript][typescript]
+![Vue.js][vuedotjs]
+![Nuxt.js][nuxtdotjs]
+![Markdown][markdown]
 
 [![Git][git]](https://github.com/betavs/zsh-in-git-bash-on-windows)
 [![Zsh][zsh]](https://github.com/betavs/zsh-in-git-bash-on-windows)
-[![NGINX][nginx]]()
-[![Linux][linux]]()
-[![macOS][macos]]()
-[![Ollama][ollama]]()
-[![Google Chrome][googlechrome]]()
-[![GitHub Desktop][githubdesktop]]()
+![NGINX][nginx]
+![Linux][linux]
+![macOS][macos]
+![Ollama][ollama]
+![Google Chrome][googlechrome]
+![GitHub Desktop][githubdesktop]
 [![Visual Studio Code][visualstudiocode]](https://github.com/betavs/vscode-config)
 
 ### Reach Me 📫
 
-[![WeChat][wechat]]()
+![WeChat][wechat]
 
-[![Email Address][emailaddress]]()
+![Email Address][emailaddress]
 
-[![GitHub Views][githubviews]]() [![GitHub Stars][githubstars]]() [![GitHub Followers][githubfollowers]]()
+![GitHub Views][githubviews] ![GitHub Stars][githubstars] ![GitHub Followers][githubfollowers]
 
-| [![GitHub Stats][githubstats]]() | [![GitHub Top Langs][githubtoplangs]]() |
-| :------------------------------: | :-------------------------------------: |
+| ![GitHub Stats][githubstats] | ![GitHub Top Langs][githubtoplangs] |
+| :--------------------------: | :---------------------------------: |
 
 [typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&height=28&vCenter=true&lines=Hi+there+👋;Hello+World+👋
 [html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff
