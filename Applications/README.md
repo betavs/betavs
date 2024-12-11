@@ -34,6 +34,8 @@
 
 - [Hugging Face – The AI community building the future.](https://huggingface.co)
 
+- [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe)
+
 - [Speedtest by Ookla - The Global Broadband Speed Test](https://www.speedtest.net)
 
 - [腾讯柠檬清理 - 全新 Mac 清理工具，实时了解 Mac 系统状况](https://lemon.qq.com)
