@@ -41,3 +41,15 @@
 - [腾讯柠檬清理 - 全新 Mac 清理工具，实时了解 Mac 系统状况](https://lemon.qq.com)
 
 - [AI 工具箱 | 人工智能领域工具导航网站 | AILOOKME](https://www.ailookme.com)
+
+- [visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net)
+
+- [Same](https://same.new)
+
+- [v0 by Vercel](https://v0.dev)
+
+- [Patterns.dev](https://www.patterns.dev)
+
+- [ByteByteGo | Technical Interview Prep](https://bytebytego.com)
+
+- [IT Tools - Handy online tools for developers](https://it-tools.tech)
