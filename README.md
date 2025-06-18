@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ![GitHub Views][githubviews] ![GitHub Stars][githubstars] ![GitHub Followers][githubfollowers]
 
-| ![GitHub Stats][githubstats] | ![GitHub Top Langs][githubtoplangs] |
-| :--------------------------: | :---------------------------------: |
+| ![GitHub Stats][githubstatsdark] ![GitHub Stats][githubstatslight] | ![GitHub Top Langs][githubtoplangsdark] ![GitHub Top Langs][githubtoplangslight] |
+| :----------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 
 [typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&height=28&vCenter=true&lines=Hi+there+👋;Hello+World+👋
 [html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff
@@ -78,5 +78,7 @@ Here are some ideas to get you started:
 [githubviews]: https://komarev.com/ghpvc?username=betavs&color=blueviolet&style=for-the-badge
 [githubstars]: https://custom-icon-badges.demolab.com/github/stars/betavs?logo=star&color=55960c&labelColor=488207&style=for-the-badge
 [githubfollowers]: https://custom-icon-badges.demolab.com/github/followers/betavs?logo=followers&color=236ad3&labelColor=1155ba&logoColor=fff&style=for-the-badge
-[githubstats]: https://github-readme-stats-one-bice.vercel.app/api?username=betavs&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true
-[githubtoplangs]: https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=betavs&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+[githubstatsdark]: https://github-readme-stats-one-bice.vercel.app/api?username=betavs&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true#gh-dark-mode-only
+[githubtoplangsdark]: https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=betavs&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only
+[githubstatslight]: https://github-readme-stats-one-bice.vercel.app/api?username=betavs&layout=compact&theme=default&hide_border=true&show_icons=true&include_all_commits=true#gh-light-mode-only
+[githubtoplangslight]: https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=betavs&layout=compact&theme=default&langs_count=8&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only
