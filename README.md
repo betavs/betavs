@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ![GitHub Views][githubviews] ![GitHub Stars][githubstars] ![GitHub Followers][githubfollowers]
 
-| ![GitHub Stats][githubstatsdark] ![GitHub Stats][githubstatslight] | ![GitHub Top Langs][githubtoplangsdark] ![GitHub Top Langs][githubtoplangslight] |
-| :----------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| [![GitHub Stats][githubstatsdark]][githubstatsdark] [![GitHub Stats][githubstatslight]][githubstatslight] | [![GitHub Top Langs][githubtoplangsdark]][githubtoplangsdark] [![GitHub Top Langs][githubtoplangslight]][githubtoplangslight] |
+| :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 
 [typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&height=28&vCenter=true&lines=Hi+there+👋;Hello+World+👋
 [html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff
