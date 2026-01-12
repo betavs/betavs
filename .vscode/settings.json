@@ -141,7 +141,7 @@
   },
   "debug.toolBarLocation": "docked",
   "diffEditor.ignoreTrimWhitespace": false,
-  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.initialHint": false,
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorStyleInactive": "none",
   "terminal.integrated.cursorBlinking": true,
