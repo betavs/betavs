@@ -4,7 +4,7 @@
 
 - [Your Free Avatar, Profile, and Link In Bio | Gravatar](https://gravatar.com)
 
-- [Home | 免费高速节点推荐](https://openrunner.net)
+- [NodeFree - 免费节点|网络自由工具箱](https://nodefree.me)
 
 - [Proxy](https://103.186.186.186) & [Assistant](https://ssr-vpn.com)
 
@@ -23,6 +23,8 @@
 - [[OpenWrt Wiki] Welcome to the OpenWrt Project](https://openwrt.org)
 
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org)
+
+- [Tor Project | Anonymity Online](https://www.torproject.org)
 
 - [DuckDuckGo — Privacy, simplified.](https://duckduckgo.com)
 
