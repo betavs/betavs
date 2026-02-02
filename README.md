@@ -45,7 +45,7 @@
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 [vuedotjs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff
-[nuxtdotjs]: https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff
+[nuxtdotjs]: https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=fff
 [markdown]: https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff
 [git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff
 [zsh]: https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff
