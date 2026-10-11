@@ -16,8 +16,8 @@
 ![Nuxt.js][nuxtdotjs]
 ![Markdown][markdown]
 
-[![Git][git]](https://github.com/betavs/betavs/tree/main/Applications/Zsh)
-[![Zsh][zsh]](https://github.com/betavs/betavs/tree/main/Applications/Zsh)
+[![Git][git]](https://github.com/betavs/betavs/releases/tag/1.1.0)
+[![Zsh][zsh]](https://github.com/betavs/betavs/releases/tag/1.1.0)
 ![NGINX][nginx]
 ![Linux][linux]
 ![macOS][macos]
