@@ -1,0 +1,28 @@
+{
+  "name": "betavs",
+  "version": "1.0.0",
+  "description": "A personal digital space for notes, ideas, and experiments.",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "keywords": [],
+  "author": "https://github.com/betavs",
+  "license": "MIT",
+  "packageManager": "pnpm@10.31.0",
+  "scripts": {
+    "prepare": "husky",
+    "format": "prettier . --write"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.3",
+    "@commitlint/config-conventional": "^21.2.3",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.6.0",
+    "prettier": "^3.9.10"
+  },
+  "lint-staged": {
+    "*.{md,mjs,json,yaml}": [
+      "prettier --write"
+    ]
+  }
+}

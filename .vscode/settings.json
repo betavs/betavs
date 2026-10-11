@@ -1,31 +1,57 @@
 {
+  // ====================
+  // Core
+  // ====================
   "update.mode": "manual",
   "window.commandCenter": false,
-  "workbench.colorTheme": "Monokai",
-  "workbench.iconTheme": "vscode-icons",
-  "workbench.startupEditor": "none",
-  "workbench.sideBar.location": "right",
-  "workbench.editor.empty.hint": "hidden",
+  "window.title": "${rootName}",
   "workbench.activityBar.location": "hidden",
-  "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.list.smoothScrolling": true,
+  "workbench.browser.openLocalhostLinks": false,
+  "workbench.browser.showInTitleBar": false,
+  "workbench.colorTheme": "Monokai",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 5,
+  "workbench.iconTheme": "vscode-icons",
   "workbench.layoutControl.enabled": false,
+  "workbench.list.smoothScrolling": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "chat.titleBar.openInAgentsWindow.enabled": false,
+  "debug.toolBarLocation": "docked",
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // ====================
+  // Files
+  // ====================
   "files.eol": "\n",
-  "editor.tabSize": 4,
-  "editor.fontSize": 16,
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.linkedEditing": true,
-  "editor.matchBrackets": "never",
-  "editor.smoothScrolling": true,
-  "editor.minimap.enabled": false,
-  "editor.guides.bracketPairs": true,
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+
+  // ====================
+  // Editor
+  // ====================
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit"
   },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": true,
+  "editor.linkedEditing": true,
+  "editor.matchBrackets": "never",
+  "editor.minimap.enabled": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.smoothScrolling": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -133,22 +159,40 @@
           "variable.other.readwrite",
           "variable.parameter"
         ],
-        "settings": {
-          "fontStyle": "italic"
-        }
+        "settings": { "fontStyle": "italic" }
       }
     ]
   },
-  "debug.toolBarLocation": "docked",
-  "diffEditor.ignoreTrimWhitespace": false,
-  "terminal.integrated.initialHint": false,
+
+  // ====================
+  // Terminal
+  // ====================
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorStyleInactive": "none",
-  "terminal.integrated.cursorBlinking": true,
-  "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontWeight": "normal",
-  "terminal.integrated.fontWeightBold": "normal",
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.initialHint": false,
+  "terminal.integrated.smoothScrolling": true,
+
+  // ====================
+  // Extensions
+  // ====================
+  "errorLens.delay": 1000,
+  "errorLens.enabledDiagnosticLevels": ["error", "warning"],
+  "errorLens.fontStyleItalic": true,
+  "errorLens.messageBackgroundMode": "none",
+
+  "gitlens.codeLens.enabled": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.statusBar.enabled": false,
+
+  // ====================
+  // Languages
+  // ====================
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
 }
